@@ -28,7 +28,7 @@ media/
 .coverage.*
 coverage.xml
 htmlcov/
-reports/
+/reports/
 
 # Browser verification tool outputs
 tools/a11y/node_modules/

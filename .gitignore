@@ -28,6 +28,7 @@ media/
 .coverage.*
 coverage.xml
 htmlcov/
+# CI output at the project root only; templates/reports/ must stay tracked.
 /reports/
 
 # Browser verification tool outputs
